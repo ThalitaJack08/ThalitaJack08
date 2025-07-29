@@ -18,6 +18,21 @@
 
 ---
 
+<div align="left">
+  <h3>🌐 Redes Sociais</h3>
+  <a href="https://www.linkedin.com/in/thalita-dias-jack-baa7b4377/" target="_blank">
+    <img height="34" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:thalitajack6@gmail.com" target="_blank">
+    <img height="34" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/thalitaajk" target="_blank">
+    <img height="34" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
+
+---
+
 ### 💻 Tecnologias que Utilizo
 
 <div style="display: inline_block">
@@ -47,21 +62,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaJack08&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6EC7" alt="Langs"/>
 </div>
 
----
-
-### 🌐 Redes Sociais
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thalita-dias-jack-baa7b4377/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:thalitajack6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.instagram.com/thalitaajk" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
 
 ---
 
